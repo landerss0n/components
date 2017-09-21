@@ -1,0 +1,5 @@
+*.log
+vendor
+index_cache
+tags
+.idea
