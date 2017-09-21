@@ -60,10 +60,10 @@ abstract class Component
     private function getWrapperClasses()
     {
         $className = get_called_class();
-        $className = str_replace('\\', '-', $className);
+        $className = str_replace('Component\\', '', $className);
         $className = strtolower($className);
 
-        $classes = [$className, 'du-component'];
+        $classes = [$className];
 
         $view = $this->param('view') ? $this->param('view') : $this->param('theme');
         if ($view) {
