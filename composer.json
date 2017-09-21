@@ -1,8 +1,8 @@
 {
-  "name": "digitalunited/components",
+  "name": "digiwise/components",
   "description": "Component manager",
   "keywords": ["wordpress", "plugin"],
-  "homepage": "https://github.com/digitalunited/components",
+  "homepage": "https://github.com/landerss0n/components",
   "license": "MIT",
   "authors": [
     {

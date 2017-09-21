@@ -2,7 +2,7 @@
 /**
 Plugin Name: Components
 Plugin URI: https://github.com/digitalunited/components
-Author: Digital United
+Author: Digital United / Digiwise AB
 Author URI: http://digitalunited.io
 */
 
